@@ -1,0 +1,34 @@
+theme: jekyll-theme-cayman
+title: Structured Logging with Serilog
+description: LOG-ENT-01 Winter 2020
+author: Nicola Biada
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://biada.it"
+  
+social-network-links:
+  email: "nicola@biada.it"
+  facebook: nicola.biada
+  github: nbiada
+  twitter: BiadaNicola
+  linkedin: nicolabiada
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+
+# Output options (more information on Jekyll's site)
+# timezone: "Europe/Rome"
+# markdown: kramdown
+# highlighter: rouge
+# permalink: /:year-:month-:day-:title/
+# paginate: 5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
